@@ -7,7 +7,7 @@ Current progress:
 - [x] Chapter 3: Non-periodic signals
 - [x] Chapter 4: Noise
 - [x] Chapter 5: Autocorrelation
-- [ ] Chapter 6: Discrete Cosine Transform
+- [x] Chapter 6: Discrete Cosine Transform
 - [ ] Chapter 7: Discrete Fourier Transform
 - [ ] Chapter 8: Filtering and Convolution
 - [ ] Chapter 9: Differentiation and Integration
