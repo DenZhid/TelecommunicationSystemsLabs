@@ -7,10 +7,10 @@ Current progress:
 - [x] Chapter 3: Non-periodic signals
 - [x] Chapter 4: Noise
 - [x] Chapter 5: Autocorrelation
-- [ ] Chapter 6: Discrete Cosine Transform
-- [ ] Chapter 7: Discrete Fourier Transform
+- [x] Chapter 6: Discrete Cosine Transform
+- [x] Chapter 7: Discrete Fourier Transform
 - [ ] Chapter 8: Filtering and Convolution
 - [ ] Chapter 9: Differentiation and Integration
 - [ ] Chapter 10: Signals and Systems
 - [ ] Chapter 11: Modulation and sampling
-- [ ] Chapter 12
+- [x] Chapter 12: Frequency Shift Keying (FSK) 
