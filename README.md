@@ -13,4 +13,4 @@ Current progress:
 - [ ] Chapter 9: Differentiation and Integration
 - [ ] Chapter 10: Signals and Systems
 - [ ] Chapter 11: Modulation and sampling
-- [ ] Chapter 12
+- [x] Chapter 12: Frequency Shift Keying (FSK) 
