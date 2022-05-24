@@ -11,6 +11,6 @@ Current progress:
 - [x] Chapter 7: Discrete Fourier Transform
 - [x] Chapter 8: Filtering and Convolution
 - [x] Chapter 9: Differentiation and Integration
-- [ ] Chapter 10: Signals and Systems
-- [ ] Chapter 11: Modulation and sampling
+- [x] Chapter 10: Signals and Systems
+- [x] Chapter 11: Modulation and sampling
 - [x] Chapter 12: Frequency Shift Keying (FSK) 
