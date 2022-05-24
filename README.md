@@ -9,7 +9,7 @@ Current progress:
 - [x] Chapter 5: Autocorrelation
 - [x] Chapter 6: Discrete Cosine Transform
 - [x] Chapter 7: Discrete Fourier Transform
-- [ ] Chapter 8: Filtering and Convolution
+- [x] Chapter 8: Filtering and Convolution
 - [ ] Chapter 9: Differentiation and Integration
 - [ ] Chapter 10: Signals and Systems
 - [ ] Chapter 11: Modulation and sampling
